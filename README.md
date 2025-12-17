@@ -62,7 +62,7 @@
 ---
 
 ## 🎯 My Motto
-> "I’m a Somali developer who built a platform for his people."  
+> "One line of code a day keeps the boredom away!!!!"  
 > "I’m proof that setbacks are setups."
 
 ---
