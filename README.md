@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm A'nor Shuaip</h1>
 <h3 align="center">Full-stack Developer | Tech Enthusiast | Bag chasser !! </h3>
 <p align="center">
-  <a href="https://github.com/Dave-notch"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- <a href="https://github.com/Dave-notch"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> -->
   <a href="https://www.linkedin.com/in/a’nor-shuaip-114ba2378"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/a_nor24"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.instagram.com/a_nor.sh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
