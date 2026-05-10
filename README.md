@@ -1,6 +1,6 @@
 <!-- PROFILE README START -->
-<h1 align="center">Hi 👋, I'm A'nor Shuaip</h1>
-<h3 align="center">Full-stack Developer | Tech Enthusiast | Bag chasser 😂 </h3>
+<h1 align="center">Hi , I'm A'nor Shuaip</h1>
+<h3 align="center">Full-stack Developer | Tech Enthusiast | Bag chasser !! </h3>
 <p align="center">
   <a href="https://github.com/Dave-notch"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/a’nor-shuaip-114ba2378"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -84,7 +84,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00ff00&width=600&lines=Code+your+future!!+--+</>"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00ff00&width=600&lines=<p>Code+your+future!!+--+</>"/>
 </p>
 
 <!-- PROFILE README END -->
